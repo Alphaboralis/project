@@ -738,9 +738,9 @@
             "trigger": "engine",
             "hasLight": true,
             "particle": {
-                "effectFile": "core:flame",
+                "effectFile": "core:fire",
                 "size": 0.07,
-                "tex": "core:flame",
+                "tex": "core:fire",
                 "tint": "hsb 140 20 65"
             },
             "workSounds": [
