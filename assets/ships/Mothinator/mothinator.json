@@ -20,7 +20,17 @@
             "position": "0.54 0.74",
             "isUnderneathHull": false,
             "allowsRotation": true
-        }
+        },
+      {
+        "position": "0.54 0.26",
+        "isUnderneathHull": false,
+        "allowsRotation": true
+      },
+      {
+        "position": "0.54 0.74",
+        "isUnderneathHull": false,
+        "allowsRotation": true
+      }
     ],
 
   "dynamicObjects":[
