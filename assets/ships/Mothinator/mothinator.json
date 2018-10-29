@@ -2,7 +2,7 @@
     "size": 1,
     "maxLife": 100,
     "type": "std",
-    "price": 200,
+    "price": 2,
     "ability": {
         "type": "teleport",
         "angle": 120,
