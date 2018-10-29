@@ -1,0 +1,11 @@
+{
+    "id" : "gelatin",
+    "version" : "0.1.0",
+    "displayName" : "gelatin Faction",
+    "description" : "Content related to gelatin Faction.",
+    "dependencies" :  [
+        {
+            "id" : "core"
+        }
+    ]
+}
