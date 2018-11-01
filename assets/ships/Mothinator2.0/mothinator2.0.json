@@ -1,6 +1,6 @@
 {
   "size":1,
-  "maxlife":1000,
+  "maxlife":10000,
   "type":"std",
   "price":20,
   "ability": {
@@ -13,12 +13,12 @@
   "gunSlots": [
     {
       "position": "0.54 0.26",
-      "isUnderneathHull": false,
+      "isUnderneathHull": true,
       "allowsRotation": false
     },
     {
       "position": "0.54 0.74",
-      "isUnderneathHull": false,
+      "isUnderneathHull": true,
       "allowsRotation": false
     }
   ],
