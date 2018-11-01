@@ -1,0 +1,8 @@
+{
+  "projectile": "piece",
+  "size": 50,
+  "price": 2,
+  "displayName": "Mothinator Gelatin",
+  "plural": "pieces",
+  "iconName": "gelatinClip"
+}

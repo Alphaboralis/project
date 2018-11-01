@@ -1,0 +1,21 @@
+{
+  "fixed": true,
+  "maxAngleVar": 30,
+  "angleVarDamp": 6,
+  "angleVarPerShot": 2,
+  "timeBetweenShots": 0,
+  "reloadTime": 1,
+  "price": 5,
+  "clipName": "gelatin:gelatinClip",
+  "gunLength": 0.24,
+  "texLenPerc": 0.85,
+  "displayName": "Lighter",
+  "lightOnShot": true,
+  "shootSounds": [
+    "core:emGun"
+  ],
+  "shootSoundPitch": 0.8,
+  "reloadSounds": [
+    "core:gunReload"
+  ]
+}
