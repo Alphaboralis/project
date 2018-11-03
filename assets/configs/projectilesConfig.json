@@ -1,6 +1,6 @@
 {
   "piece": {
-    "dmg": 100,
+    "dmg": 1000,
     "dmgType": "energy",
     "spdLen": 6,
     "tex": "gelatin:piece",
