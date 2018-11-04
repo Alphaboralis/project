@@ -1,13 +1,13 @@
 {
   "piece": {
-    "dmg": 1000,
+    "dmg": 100000,
     "dmgType": "energy",
-    "spdLen": 1000,
+    "spdLen": 100,
     "tex": "gelatin:piece",
     "texSz": 0.12,
     "collisionEffect": {
       "effectFile": "core:explFire",
-      "size": 3,
+      "size": 10,
       "tex": "core:fire",
       "tint": "120 210 90"
     },
