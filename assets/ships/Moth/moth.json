@@ -8,7 +8,7 @@
     "factor": 0.4,
     "rechargeTime": 5
   },
-  "displayName": "MOTH",
+  "displayName": "Moth",
   "engine": "core:imperialBigEngine","gunSlots": [
   {
     "position": "0.276 0.2935",
