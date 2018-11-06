@@ -1,10 +1,10 @@
 {
-  "fixed": true,
+  "fixed": false,
   "maxAngleVar": 30,
   "angleVarDamp": 6,
   "angleVarPerShot": 2,
-  "timeBetweenShots": 0,
-  "reloadTime": 1,
+  "timeBetweenShots": 2,
+  "reloadTime": 0,
   "price": 5,
   "clipName": "gelatin:gelatinClip",
   "gunLength": 0.24,

@@ -9,7 +9,8 @@
     "rechargeTime": 5
   },
   "displayName": "Moth",
-  "engine": "core:imperialBigEngine","gunSlots": [
+  "engine": "core:imperialBigEngine",
+  "gunSlots": [
   {
     "position": "0.276 0.2935",
     "isUnderneathHull": true,

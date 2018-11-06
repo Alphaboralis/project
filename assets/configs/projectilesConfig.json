@@ -2,7 +2,7 @@
   "piece": {
     "dmg": 100000,
     "dmgType": "energy",
-    "spdLen": 1,
+    "spdLen": 100,
     "tex": "gelatin:piece",
     "texSz": 0.12,
     "collisionEffect": {
