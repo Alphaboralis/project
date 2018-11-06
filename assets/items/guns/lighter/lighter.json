@@ -1,5 +1,5 @@
 {
-  "fixed": false,
+  "fixed": true,
   "maxAngleVar": 30,
   "angleVarDamp": 6,
   "angleVarPerShot": 2,
