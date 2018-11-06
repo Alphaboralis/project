@@ -8,5 +8,10 @@
     "hull": "gelatin:Mothinator2.0",
     "items": "99*rep core:heavyArmor-1 core:advancedShield-1 gelatin:lighter-1 gelatin:lighter-2 99*gelatin:gelatinClip",
     "money": 20
+  },
+  "MOTH":{
+    "hull": "gelatin:MOTH",
+    "items": "99*rep core:heavyArmor-1 core:advancedShield-1 gelatin:lighter-1 gelatin:lighter-2 99*gelatin:gelatinClip",
+    "money": 2
   }
 }
