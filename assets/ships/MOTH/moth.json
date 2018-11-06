@@ -14,12 +14,12 @@
   {
     "position": "0.276 0.2935",
     "isUnderneathHull": true,
-    "allowsRotation": true
+    "allowsRotation": false
   },
   {
     "position": "0.276 0.7075",
     "isUnderneathHull": true,
-    "allowsRotation": true
+    "allowsRotation": false
   }
 ],
   "particleEmitters": [
