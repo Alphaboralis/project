@@ -59,7 +59,7 @@
       ]
     }
   ],
-  "rigidBodies":[
+  "rigidBody":[
     {
       "origin":{
         "x":0.48375001549720764,
