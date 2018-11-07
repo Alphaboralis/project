@@ -1,0 +1,8 @@
+{
+  "projectile": "cartridge",
+  "size": 50,
+  "price": 2,
+  "displayName": "Mothinator Bust",
+  "plural": "cartridges",
+  "iconName": "gelatinClip"
+}

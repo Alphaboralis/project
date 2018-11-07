@@ -12,5 +12,19 @@
       "tint": "120 210 90"
     },
     "collisionSound": "core:blastCollision"
+  },
+  "cartridge":{
+    "dmg": 99999,
+    "dmgType": "explosion",
+    "spdLen": 50,
+    "tex": "gelatin:cartridge",
+    "texSz": 0.12,
+    "collisionEffect": {
+      "effectFile": "core:explFire",
+      "size": 10,
+      "tex": "core:fire",
+      "tint": "120 210 90"
+    },
+    "collisionSound": "core:blastCollision"
   }
 }

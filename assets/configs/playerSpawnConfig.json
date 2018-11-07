@@ -9,9 +9,9 @@
     "items": "99*rep core:heavyArmor-1 core:advancedShield-1 gelatin:lighter-1 gelatin:lighter-2 100000*gelatin:gelatinClip",
     "money": 20
   },
-  "MOTH":{
+  "Moth":{
     "hull": "gelatin:Moth",
-    "items": "99*rep core:heavyArmor-1 core:advancedShield-1 gelatin:lighter-1 gelatin:lighter-2 99*gelatin:gelatinClip",
+    "items": "99*rep core:heavyArmor-1 core:advancedShield-1 gelatin:demon-1 gelatin:demon-2 99*gelatin:gelatinClip",
     "money": 2
   }
 }
