@@ -16,7 +16,7 @@
   "cartridge":{
     "dmg": 99999,
     "dmgType": "explosion",
-    "spdLen": 50,
+    "spdLen": 5,
     "tex": "gelatin:cartridge",
     "texSz": 0.12,
     "collisionEffect": {
