@@ -3,7 +3,7 @@
   "maxAngleVar": 30,
   "angleVarDamp": 6,
   "angleVarPerShot": 2,
-  "timeBetweenShots": 1,
+  "timeBetweenShots": 0.5,
   "reloadTime": 0,
   "price": 5,
   "clipName": "gelatin:gelatinClip",
